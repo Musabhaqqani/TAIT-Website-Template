@@ -2889,21 +2889,21 @@ screen and (max-height: 300px) {
 }
 
 .about .about__right .images .img2 {
-    width: 121px;
-    height: 117px;
+    width: 151px;
+    height: 150px;
     object-fit: cover;
-    top: 230px;
+    top: 330px;
     left: -183px;
-    animation: animate-2 15s linear 0s infinite;
+    /* animation: animate-2 15s linear 0s infinite; */
 }
 
 .about .about__right .images .img3 {
     width: 222px;
-    height: 222px;
-    object-fit: cover;
+    height: 230px;
+    object-fit: fill;
     bottom: -93px;
     left: -108px;
-    animation: animate-3 15s linear 0s infinite;
+    /* animation: animate-3 15s linear 0s infinite; */
 }
 
 .about .about__right .images .img4 {
@@ -2912,7 +2912,7 @@ screen and (max-height: 300px) {
     object-fit: cover;
     bottom: -89px;
     left: 129px;
-    animation: animate-4 15s linear 0s infinite;
+    /* animation: animate-4 15s linear 0s infinite; */
 }
 
 .about .about__right .images .img5 {
@@ -2922,7 +2922,7 @@ screen and (max-height: 300px) {
     bottom: -162px;
     right: 75px;
     z-index: 4;
-    animation: animate-5 15s linear 0s infinite;
+    /* animation: animate-5 15s linear 0s infinite; */
 }
 
 .about .about__right .images::after {
